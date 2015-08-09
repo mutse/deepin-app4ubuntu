@@ -3,7 +3,7 @@ Deepin App for Ubuntu
 
 Portting Deepin Software for Ubuntu.
 
-#1 deepin-ui
+#1. deepin-ui
 
 Depends:
 -------------
@@ -21,5 +21,11 @@ Depends:
 + python-xlib
 + python-scipy
 + python-cairo-dev
+
+#2. deepin-music
+
+#3. deepin-screenshot
+
+#4. deepin-movie
 
 
